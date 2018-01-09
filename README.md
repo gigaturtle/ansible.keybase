@@ -35,4 +35,4 @@ BSD
 Author Information
 ------------------
 
-keybase.io/gigaturtle
+[keybase.io/gigaturtle](https://keybase.io/gigaturtle)
